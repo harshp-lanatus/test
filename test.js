@@ -1,1 +1,1 @@
-console.log("hii");
+const a = 1;
